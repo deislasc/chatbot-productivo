@@ -20,24 +20,6 @@ Copiar código
 git clone https://github.com/deiccaabsa/helpdesk.git
 Instalar Dependencias: Navega al directorio del proyecto e instala las dependencias necesarias:
 
-bash
-Copiar código
-cd helpdesk
-npm install
-Configurar Variables de Entorno: Crea un archivo .env en la raíz del proyecto y configura las variables necesarias como las credenciales de la API de WhatsApp y la URL del sistema osTicket.
-
-bash
-Copiar código
-WHATSAPP_API_KEY=your_whatsapp_api_key
-OSTICKET_API_URL=https://your_osticket_instance/api/tickets.json
-OSTICKET_API_KEY=your_osticket_api_key
-Iniciar el Chatbot: Una vez configurado, puedes iniciar el chatbot utilizando el siguiente comando:
-
-bash
-Copiar código
-npm start
-Uso
-Los usuarios pueden interactuar con el chatbot enviando un mensaje a través de WhatsApp. El chatbot guiará al usuario para recopilar la información necesaria, como el tipo de incidencia, detalles adicionales y cualquier archivo adjunto que sea necesario. Al final de la interacción, el chatbot creará un ticket en el sistema osTicket y proporcionará al usuario un número de referencia para el seguimiento.
 
 Contribución
 Las contribuciones son bienvenidas. Por favor, sigue el flujo de trabajo de Git estándar para realizar cambios:
