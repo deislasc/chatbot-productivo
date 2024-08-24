@@ -1,0 +1,1387 @@
+[handleMsg]:  {
+  type: 'text',
+  from: '5215523987389',
+  to: '5215616641093',
+  body: 'Salir',
+  pushName: 'Oswaldo'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ddf2da5c-fcc8-47b9-ad8a-98db3fd2392c',
+  keyword: 'key_ac1baec4-db95-4fa3-b88e-c39d164f0506',
+  answer: 'Se canceló tu solicitud por inactividad. Por favor, vuelve a generar tu solicitud.',
+  options: {
+    media: null,
+    buttons: [ [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2e85e0df13e7b29b8f40e24b27274f02'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5215523987389',
+  to: '5215616641093',
+  body: '🛑 Salir',
+  title_button_reply: '🛑 Salir',
+  title_list_reply: undefined,
+  pushName: 'Oswaldo'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_45b406e2-8753-4c28-9111-4805a734ecd9',
+  keyword: 'ans_ddf2da5c-fcc8-47b9-ad8a-98db3fd2392c',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '987bc9c61d6594d07eafaeffd66c7cf7'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ddf2da5c-fcc8-47b9-ad8a-98db3fd2392c',
+  keyword: 'key_ac1baec4-db95-4fa3-b88e-c39d164f0506',
+  answer: 'Se canceló tu solicitud por inactividad. Por favor, vuelve a generar tu solicitud.',
+  options: {
+    media: null,
+    buttons: [ [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2e85e0df13e7b29b8f40e24b27274f02'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5215523987389',
+  to: '5215616641093',
+  body: 'Menú Principal',
+  title_button_reply: 'Menú Principal',
+  title_list_reply: undefined,
+  pushName: 'Oswaldo'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_45b406e2-8753-4c28-9111-4805a734ecd9',
+  keyword: 'ans_ddf2da5c-fcc8-47b9-ad8a-98db3fd2392c',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '987bc9c61d6594d07eafaeffd66c7cf7'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5215523987389',
+  to: '5215616641093',
+  body: '🏷️ Crear Ticket',
+  title_button_reply: '🏷️ Crear Ticket',
+  title_list_reply: undefined,
+  pushName: 'Oswaldo'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_22f61e3b-6b22-4af2-a285-2334d4502cb3',
+  keyword: 'ans_ee82779a-0954-4b20-b6fb-67304cf5110a',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8ff6f2d39962b4565994ec844275e6f6'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215523987389',
+  to: '5215616641093',
+  body: 'rbelmont@caabsa.com',
+  pushName: 'Oswaldo'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215523987389',
+  to: '5215616641093',
+  body: 'Computadora',
+  pushName: 'Oswaldo'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215523987389',
+  to: '5215616641093',
+  body: 'Cuando encendí la computadora aparece un error con pantalla negra',
+  pushName: 'Oswaldo'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5215574981024',
+  to: '5215616641093',
+  body: 'Nuevo Ticket',
+  title_button_reply: 'Nuevo Ticket',
+  title_list_reply: undefined,
+  pushName: 'Dan Ibañez'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215574981024',
+  to: '5215616641093',
+  body: 'Hola',
+  pushName: 'Dan Ibañez'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ee82779a-0954-4b20-b6fb-67304cf5110a',
+  keyword: 'key_f5c9ec75-0579-42b4-9336-7b4f2a9130ab',
+  answer: '¡Saludos! Soy el asistente virtual de Grupo Caabsa. ¿En qué puedo ayudarte hoy?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: 10000,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7d95b1b54a40a46b35e0992f03f9f609'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5215574981024',
+  to: '5215616641093',
+  body: '🏷️ Crear Ticket',
+  title_button_reply: '🏷️ Crear Ticket',
+  title_list_reply: undefined,
+  pushName: 'Dan Ibañez'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_22f61e3b-6b22-4af2-a285-2334d4502cb3',
+  keyword: 'ans_ee82779a-0954-4b20-b6fb-67304cf5110a',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8ff6f2d39962b4565994ec844275e6f6'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215574981024',
+  to: '5215616641093',
+  body: 'drivera@caabsa.com.mx',
+  pushName: 'Dan Ibañez'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215574981024',
+  to: '5215616641093',
+  body: 'Impresora',
+  pushName: 'Dan Ibañez'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215574981024',
+  to: '5215616641093',
+  body: 'Configuración de impresora en computadora de escritorio',
+  pushName: 'Dan Ibañez'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5216673880717',
+  to: '5215616641093',
+  body: 'Nuevo Ticket',
+  title_button_reply: 'Nuevo Ticket',
+  title_list_reply: undefined,
+  pushName: 'Gus'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5216673880717',
+  to: '5215616641093',
+  body: 'Buenos sias',
+  pushName: 'Gus'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5216673880717',
+  to: '5215616641093',
+  body: 'Dias*',
+  pushName: 'Gus'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5216673880717',
+  to: '5215616641093',
+  body: '🏷️ Crear Ticket',
+  pushName: 'Gus'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5216673880717',
+  to: '5215616641093',
+  body: 'Menú Principal',
+  title_button_reply: 'Menú Principal',
+  title_list_reply: undefined,
+  pushName: 'Gus'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5216673880717',
+  to: '5215616641093',
+  body: 'Hola',
+  pushName: 'Gus'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ee82779a-0954-4b20-b6fb-67304cf5110a',
+  keyword: 'key_f5c9ec75-0579-42b4-9336-7b4f2a9130ab',
+  answer: '¡Saludos! Soy el asistente virtual de Grupo Caabsa. ¿En qué puedo ayudarte hoy?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: 10000,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7d95b1b54a40a46b35e0992f03f9f609'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5216673880717',
+  to: '5215616641093',
+  body: '🏷️ Crear Ticket',
+  title_button_reply: '🏷️ Crear Ticket',
+  title_list_reply: undefined,
+  pushName: 'Gus'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_22f61e3b-6b22-4af2-a285-2334d4502cb3',
+  keyword: 'ans_ee82779a-0954-4b20-b6fb-67304cf5110a',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8ff6f2d39962b4565994ec844275e6f6'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5216673880717',
+  to: '5215616641093',
+  body: 'gibarra@entra.mx',
+  pushName: 'Gus'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5216673880717',
+  to: '5215616641093',
+  body: 'Sala de Juntas',
+  pushName: 'Gus'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5216673880717',
+  to: '5215616641093',
+  body: 'Hola me podrías proporcionar información sobre como reservar una sala de juntas. Gracias.',
+  pushName: 'Gus'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ee82779a-0954-4b20-b6fb-67304cf5110a',
+  keyword: 'key_f5c9ec75-0579-42b4-9336-7b4f2a9130ab',
+  answer: '¡Saludos! Soy el asistente virtual de Grupo Caabsa. ¿En qué puedo ayudarte hoy?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: 10000,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7d95b1b54a40a46b35e0992f03f9f609'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_55c542ac-73ce-4c3e-8fa5-7c95af1663f3',
+  keyword: 'ans_86ee9767-eea9-4072-9779-3ee4b1ba96f4',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2c6897d5015efb5fcf43d59c8392c86c'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5216673880717',
+  to: '5215616641093',
+  body: '🏷️ Crear Ticket',
+  title_button_reply: '🏷️ Crear Ticket',
+  title_list_reply: undefined,
+  pushName: 'Gus'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_45b406e2-8753-4c28-9111-4805a734ecd9',
+  keyword: 'ans_ddf2da5c-fcc8-47b9-ad8a-98db3fd2392c',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '987bc9c61d6594d07eafaeffd66c7cf7'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5216673880717',
+  to: '5215616641093',
+  body: 'Hola',
+  pushName: 'Gus'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ee82779a-0954-4b20-b6fb-67304cf5110a',
+  keyword: 'key_f5c9ec75-0579-42b4-9336-7b4f2a9130ab',
+  answer: '¡Saludos! Soy el asistente virtual de Grupo Caabsa. ¿En qué puedo ayudarte hoy?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: 10000,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7d95b1b54a40a46b35e0992f03f9f609'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5216673880717',
+  to: '5215616641093',
+  body: '🏷️ Crear Ticket',
+  title_button_reply: '🏷️ Crear Ticket',
+  title_list_reply: undefined,
+  pushName: 'Gus'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_22f61e3b-6b22-4af2-a285-2334d4502cb3',
+  keyword: 'ans_ee82779a-0954-4b20-b6fb-67304cf5110a',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8ff6f2d39962b4565994ec844275e6f6'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5216673880717',
+  to: '5215616641093',
+  body: 'gibarra@entra.mx',
+  pushName: 'Gus'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5216673880717',
+  to: '5215616641093',
+  body: 'Sala de juntas',
+  pushName: 'Gus'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5216673880717',
+  to: '5215616641093',
+  body: 'Hola me podrian proporcionar informacion sobre como apartar una sala de juntas',
+  pushName: 'Gus'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ee82779a-0954-4b20-b6fb-67304cf5110a',
+  keyword: 'key_f5c9ec75-0579-42b4-9336-7b4f2a9130ab',
+  answer: '¡Saludos! Soy el asistente virtual de Grupo Caabsa. ¿En qué puedo ayudarte hoy?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: 10000,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7d95b1b54a40a46b35e0992f03f9f609'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_55c542ac-73ce-4c3e-8fa5-7c95af1663f3',
+  keyword: 'ans_86ee9767-eea9-4072-9779-3ee4b1ba96f4',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2c6897d5015efb5fcf43d59c8392c86c'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215573760205',
+  to: '5215616641093',
+  body: 'dflores@aamecsa.com',
+  pushName: 'Erik Daniel Vargas'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5215573760205',
+  to: '5215616641093',
+  body: 'Nuevo Ticket',
+  title_button_reply: 'Nuevo Ticket',
+  title_list_reply: undefined,
+  pushName: 'Erik Daniel Vargas'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5215573760205',
+  to: '5215616641093',
+  body: 'Menú Principal',
+  title_button_reply: 'Menú Principal',
+  title_list_reply: undefined,
+  pushName: 'Erik Daniel Vargas'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215573760205',
+  to: '5215616641093',
+  body: 'Hola',
+  pushName: 'Erik Daniel Vargas'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ee82779a-0954-4b20-b6fb-67304cf5110a',
+  keyword: 'key_f5c9ec75-0579-42b4-9336-7b4f2a9130ab',
+  answer: '¡Saludos! Soy el asistente virtual de Grupo Caabsa. ¿En qué puedo ayudarte hoy?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: 10000,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7d95b1b54a40a46b35e0992f03f9f609'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5215573760205',
+  to: '5215616641093',
+  body: '🏷️ Crear Ticket',
+  title_button_reply: '🏷️ Crear Ticket',
+  title_list_reply: undefined,
+  pushName: 'Erik Daniel Vargas'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_22f61e3b-6b22-4af2-a285-2334d4502cb3',
+  keyword: 'ans_ee82779a-0954-4b20-b6fb-67304cf5110a',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8ff6f2d39962b4565994ec844275e6f6'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215573760205',
+  to: '5215616641093',
+  body: 'dflores@aamecsa.com',
+  pushName: 'Erik Daniel Vargas'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215573760205',
+  to: '5215616641093',
+  body: 'Cambio de contraseña Gmail',
+  pushName: 'Erik Daniel Vargas'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215573760205',
+  to: '5215616641093',
+  body: 'Cambio de contraseña vbravo@aamecsa.com',
+  pushName: 'Erik Daniel Vargas'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5215574981024',
+  to: '5215616641093',
+  body: 'Nuevo Ticket',
+  title_button_reply: 'Nuevo Ticket',
+  title_list_reply: undefined,
+  pushName: 'Dan Ibañez'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8cb14a16-a1ac-4bdc-80a4-1c617db8d92c',
+  keyword: 'ans_78121e8f-e864-4fbd-8d87-5063348c2a96',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '73afa61c01268a942d9ea2f8bb7badcf'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215574981024',
+  to: '5215616641093',
+  body: 'Hola',
+  pushName: 'Dan Ibañez'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ee82779a-0954-4b20-b6fb-67304cf5110a',
+  keyword: 'key_f5c9ec75-0579-42b4-9336-7b4f2a9130ab',
+  answer: '¡Saludos! Soy el asistente virtual de Grupo Caabsa. ¿En qué puedo ayudarte hoy?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: 10000,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7d95b1b54a40a46b35e0992f03f9f609'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5215574981024',
+  to: '5215616641093',
+  body: '🏷️ Crear Ticket',
+  title_button_reply: '🏷️ Crear Ticket',
+  title_list_reply: undefined,
+  pushName: 'Dan Ibañez'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_22f61e3b-6b22-4af2-a285-2334d4502cb3',
+  keyword: 'ans_ee82779a-0954-4b20-b6fb-67304cf5110a',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8ff6f2d39962b4565994ec844275e6f6'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215574981024',
+  to: '5215616641093',
+  body: 'drivera@caabsa.com.mx',
+  pushName: 'Dan Ibañez'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215574981024',
+  to: '5215616641093',
+  body: 'Solicito su apoyo con proyector para la junta de rh',
+  pushName: 'Dan Ibañez'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215574981024',
+  to: '5215616641093',
+  body: 'Solicito su apoyo con el proyector para nuestra junta de Rh \n' +
+    'Se llevará a cabo el día de mañana a las 10 hrs en el comedor corporativo',
+  pushName: 'Dan Ibañez'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5215574981024',
+  to: '5215616641093',
+  body: 'Nuevo Ticket',
+  title_button_reply: 'Nuevo Ticket',
+  title_list_reply: undefined,
+  pushName: 'Dan Ibañez'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8cb14a16-a1ac-4bdc-80a4-1c617db8d92c',
+  keyword: 'ans_78121e8f-e864-4fbd-8d87-5063348c2a96',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '73afa61c01268a942d9ea2f8bb7badcf'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5218332081072',
+  to: '5215616641093',
+  body: 'Hola ! Me podrían apoyar a instalar algunos programas en mi computadora, como el paquete office y PDF por favor',
+  pushName: 'Liliana Guerrero'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ee82779a-0954-4b20-b6fb-67304cf5110a',
+  keyword: 'key_f5c9ec75-0579-42b4-9336-7b4f2a9130ab',
+  answer: '¡Saludos! Soy el asistente virtual de Grupo Caabsa. ¿En qué puedo ayudarte hoy?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: 10000,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7d95b1b54a40a46b35e0992f03f9f609'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5218332081072',
+  to: '5215616641093',
+  body: '🏷️ Crear Ticket',
+  title_button_reply: '🏷️ Crear Ticket',
+  title_list_reply: undefined,
+  pushName: 'Liliana Guerrero'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_22f61e3b-6b22-4af2-a285-2334d4502cb3',
+  keyword: 'ans_ee82779a-0954-4b20-b6fb-67304cf5110a',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8ff6f2d39962b4565994ec844275e6f6'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5218332081072',
+  to: '5215616641093',
+  body: 'lguerrero@fastcompany.mx',
+  pushName: 'Liliana Guerrero'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5218332081072',
+  to: '5215616641093',
+  body: 'Instalar PDF',
+  pushName: 'Liliana Guerrero'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5218332081072',
+  to: '5215616641093',
+  body: 'Me gustaría que me pudieran apoyar a instalar algunos programas, como el lector de PDF',
+  pushName: 'Liliana Guerrero'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5218332081072',
+  to: '5215616641093',
+  body: 'Menú Principal',
+  title_button_reply: 'Menú Principal',
+  title_list_reply: undefined,
+  pushName: 'Liliana Guerrero'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8cb14a16-a1ac-4bdc-80a4-1c617db8d92c',
+  keyword: 'ans_78121e8f-e864-4fbd-8d87-5063348c2a96',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '73afa61c01268a942d9ea2f8bb7badcf'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215579660500',
+  to: '5215616641093',
+  body: 'Hola',
+  pushName: 'Diego Cuervo'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ee82779a-0954-4b20-b6fb-67304cf5110a',
+  keyword: 'key_f5c9ec75-0579-42b4-9336-7b4f2a9130ab',
+  answer: '¡Saludos! Soy el asistente virtual de Grupo Caabsa. ¿En qué puedo ayudarte hoy?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: 10000,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7d95b1b54a40a46b35e0992f03f9f609'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5215579660500',
+  to: '5215616641093',
+  body: '🔎 Consultar Status',
+  title_button_reply: '🔎 Consultar Status',
+  title_list_reply: undefined,
+  pushName: 'Diego Cuervo'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0358d66a-76a5-4453-b494-2e0c98164788',
+  keyword: 'key_6c448dfd-c504-4b3e-82cd-568cd694f642',
+  answer: 'Ingresa el número de ticket que deseas consultar:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2c6a60c6319defd8a3d7f1a82b921c43'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215579660500',
+  to: '5215616641093',
+  body: '000300',
+  pushName: 'Diego Cuervo'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1680bf95-1d95-48bb-9a3b-b03a5b9efc02',
+  keyword: 'ans_0358d66a-76a5-4453-b494-2e0c98164788',
+  answer: '¿Deseas contestar la encuesta de satisfacción para ayudarnos a mejorar nuestro servicio?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5e4017326509dce31caf18ebe3ad6268'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5215579660500',
+  to: '5215616641093',
+  body: 'No, gracias',
+  title_button_reply: 'No, gracias',
+  title_list_reply: undefined,
+  pushName: 'Diego Cuervo'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5465fd23-af04-4b90-bf86-a72e7b9c8114',
+  keyword: 'ans_1680bf95-1d95-48bb-9a3b-b03a5b9efc02',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '4ae38020cced1f9b6f2eda8e338c23c9'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5215579660500',
+  to: '5215616641093',
+  body: 'Menú Principal',
+  title_button_reply: 'Menú Principal',
+  title_list_reply: undefined,
+  pushName: 'Diego Cuervo'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1a5362e4-21d0-4ede-8ea2-c2c57296093c',
+  keyword: 'ans_48a9a969-2910-455f-9dfb-092d373606bc',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '3e03403ce73993dc96a9f04fc532d666'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5215579660500',
+  to: '5215616641093',
+  body: '🔎 Consultar Status',
+  title_button_reply: '🔎 Consultar Status',
+  title_list_reply: undefined,
+  pushName: 'Diego Cuervo'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0358d66a-76a5-4453-b494-2e0c98164788',
+  keyword: 'key_6c448dfd-c504-4b3e-82cd-568cd694f642',
+  answer: 'Ingresa el número de ticket que deseas consultar:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2c6a60c6319defd8a3d7f1a82b921c43'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215579660500',
+  to: '5215616641093',
+  body: '000256',
+  pushName: 'Diego Cuervo'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1680bf95-1d95-48bb-9a3b-b03a5b9efc02',
+  keyword: 'ans_0358d66a-76a5-4453-b494-2e0c98164788',
+  answer: '¿Deseas contestar la encuesta de satisfacción para ayudarnos a mejorar nuestro servicio?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5e4017326509dce31caf18ebe3ad6268'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5215579660500',
+  to: '5215616641093',
+  body: 'No, gracias',
+  title_button_reply: 'No, gracias',
+  title_list_reply: undefined,
+  pushName: 'Diego Cuervo'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5465fd23-af04-4b90-bf86-a72e7b9c8114',
+  keyword: 'ans_1680bf95-1d95-48bb-9a3b-b03a5b9efc02',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '4ae38020cced1f9b6f2eda8e338c23c9'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5215579660500',
+  to: '5215616641093',
+  body: 'Menú Principal',
+  title_button_reply: 'Menú Principal',
+  title_list_reply: undefined,
+  pushName: 'Diego Cuervo'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1a5362e4-21d0-4ede-8ea2-c2c57296093c',
+  keyword: 'ans_48a9a969-2910-455f-9dfb-092d373606bc',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '3e03403ce73993dc96a9f04fc532d666'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5215579660500',
+  to: '5215616641093',
+  body: '🔎 Consultar Status',
+  title_button_reply: '🔎 Consultar Status',
+  title_list_reply: undefined,
+  pushName: 'Diego Cuervo'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0358d66a-76a5-4453-b494-2e0c98164788',
+  keyword: 'key_6c448dfd-c504-4b3e-82cd-568cd694f642',
+  answer: 'Ingresa el número de ticket que deseas consultar:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2c6a60c6319defd8a3d7f1a82b921c43'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215579660500',
+  to: '5215616641093',
+  body: '000005',
+  pushName: 'Diego Cuervo'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1680bf95-1d95-48bb-9a3b-b03a5b9efc02',
+  keyword: 'ans_0358d66a-76a5-4453-b494-2e0c98164788',
+  answer: '¿Deseas contestar la encuesta de satisfacción para ayudarnos a mejorar nuestro servicio?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5e4017326509dce31caf18ebe3ad6268'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5215579660500',
+  to: '5215616641093',
+  body: 'No, gracias',
+  title_button_reply: 'No, gracias',
+  title_list_reply: undefined,
+  pushName: 'Diego Cuervo'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5465fd23-af04-4b90-bf86-a72e7b9c8114',
+  keyword: 'ans_1680bf95-1d95-48bb-9a3b-b03a5b9efc02',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '4ae38020cced1f9b6f2eda8e338c23c9'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5215579660500',
+  to: '5215616641093',
+  body: 'Menú Principal',
+  title_button_reply: 'Menú Principal',
+  title_list_reply: undefined,
+  pushName: 'Diego Cuervo'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1a5362e4-21d0-4ede-8ea2-c2c57296093c',
+  keyword: 'ans_48a9a969-2910-455f-9dfb-092d373606bc',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '3e03403ce73993dc96a9f04fc532d666'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5215579660500',
+  to: '5215616641093',
+  body: '🔎 Consultar Status',
+  title_button_reply: '🔎 Consultar Status',
+  title_list_reply: undefined,
+  pushName: 'Diego Cuervo'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0358d66a-76a5-4453-b494-2e0c98164788',
+  keyword: 'key_6c448dfd-c504-4b3e-82cd-568cd694f642',
+  answer: 'Ingresa el número de ticket que deseas consultar:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2c6a60c6319defd8a3d7f1a82b921c43'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215579660500',
+  to: '5215616641093',
+  body: '000408',
+  pushName: 'Diego Cuervo'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1680bf95-1d95-48bb-9a3b-b03a5b9efc02',
+  keyword: 'ans_0358d66a-76a5-4453-b494-2e0c98164788',
+  answer: '¿Deseas contestar la encuesta de satisfacción para ayudarnos a mejorar nuestro servicio?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5e4017326509dce31caf18ebe3ad6268'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5215576714695',
+  to: '5215616641093',
+  body: 'Nuevo Ticket',
+  title_button_reply: 'Nuevo Ticket',
+  title_list_reply: undefined,
+  pushName: 'CF'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215576714695',
+  to: '5215616641093',
+  body: 'Hola',
+  pushName: 'CF'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ee82779a-0954-4b20-b6fb-67304cf5110a',
+  keyword: 'key_f5c9ec75-0579-42b4-9336-7b4f2a9130ab',
+  answer: '¡Saludos! Soy el asistente virtual de Grupo Caabsa. ¿En qué puedo ayudarte hoy?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: 10000,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7d95b1b54a40a46b35e0992f03f9f609'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5215576714695',
+  to: '5215616641093',
+  body: '🏷️ Crear Ticket',
+  title_button_reply: '🏷️ Crear Ticket',
+  title_list_reply: undefined,
+  pushName: 'CF'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_22f61e3b-6b22-4af2-a285-2334d4502cb3',
+  keyword: 'ans_ee82779a-0954-4b20-b6fb-67304cf5110a',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8ff6f2d39962b4565994ec844275e6f6'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215576714695',
+  to: '5215616641093',
+  body: 'cfernandez@caabsa.com.mx',
+  pushName: 'CF'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215576714695',
+  to: '5215616641093',
+  body: 'Nombre en línea telefónica',
+  pushName: 'CF'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215576714695',
+  to: '5215616641093',
+  body: 'Extension 2171',
+  pushName: 'CF'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215519540331',
+  to: '5215616641093',
+  body: 'Hola',
+  pushName: 'Jose Muñoz'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ee82779a-0954-4b20-b6fb-67304cf5110a',
+  keyword: 'key_f5c9ec75-0579-42b4-9336-7b4f2a9130ab',
+  answer: '¡Saludos! Soy el asistente virtual de Grupo Caabsa. ¿En qué puedo ayudarte hoy?',
+  options: {
+    media: null,
+    buttons: [ [Object], [Object], [Object] ],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: 10000,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7d95b1b54a40a46b35e0992f03f9f609'
+}
+[handleMsg]:  {
+  type: 'interactive',
+  from: '5215519540331',
+  to: '5215616641093',
+  body: '🏷️ Crear Ticket',
+  title_button_reply: '🏷️ Crear Ticket',
+  title_list_reply: undefined,
+  pushName: 'Jose Muñoz'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_22f61e3b-6b22-4af2-a285-2334d4502cb3',
+  keyword: 'ans_ee82779a-0954-4b20-b6fb-67304cf5110a',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '8ff6f2d39962b4565994ec844275e6f6'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215519540331',
+  to: '5215616641093',
+  body: 'Jmunoz@caabsa.com.mx',
+  pushName: 'Jose Muñoz'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215519540331',
+  to: '5215616641093',
+  body: 'Proyección sala Madrid con dispositivo iOS',
+  pushName: 'Jose Muñoz'
+}
+[handleMsg]:  {
+  type: 'text',
+  from: '5215519540331',
+  to: '5215616641093',
+  body: 'No puedo acceder a Apple TV de la sala',
+  pushName: 'Jose Muñoz'
+}
